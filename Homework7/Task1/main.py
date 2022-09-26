@@ -6,4 +6,4 @@
 
 import controller as cont
 
-cont.press_x_to_pay_respect()
+cont.press_f_to_pay_respect()

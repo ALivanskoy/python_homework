@@ -1,6 +1,6 @@
 import logic as l
 
-def press_x_to_pay_respect():
+def press_f_to_pay_respect():
     arg = None
 
     while arg != "0":
